@@ -1,7 +1,7 @@
-id = "0xtz"
-name = "0xtz Theme"
-version = "0.0.1"
+id = "horcrux"
+name = "Horcrux"
+version = "0.1.0"
 schema_version = 1
-authors = ["Ziani Taha <0xtz.me>"]
-description = "A top-tier theme for Zed text editor, meticulously crafted by 0xtz and an AI assistant, inspired by the Andromeda VS Code theme."
-repository = "https://github.com/0xtz/0xtz-theme"
+authors = ["Aurélien Delogu <aurelien.delogu@gmail.com>"]
+description = "An elegant theme for Zed."
+repository = "https://github.com/pyrsmk/horcrux"

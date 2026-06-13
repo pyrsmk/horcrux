@@ -1,12 +1,8 @@
-# 0xtz Zed Theme
+# Horcrux
 
-A top-tier theme for the Zed text editor, inspired by the popular Andromeda VS Code theme.
-
-## Contributing
-
-Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
+An elegant theme for the Zed text editor, derived from [0xtz](https://github.com/0xtz/0xtz-theme) (based on [Andromeda theme](https://github.com/EliverLara/Andromeda)).
 
 ## Credits
 
-- **0xtz:** For the original vision and theme integration.
-- **Andromeda:** For the inspiration and colors etc...
+- **pyrsmk:** Many bugfixes and improvements.
+- **0xtz:** Original vision and theme integration.
