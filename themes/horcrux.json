@@ -1,5 +1,5 @@
 {
-  "$schema": "https://zed.dev/schema/themes/v0.1.0.json",
+  "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
   "name": "Horcrux",
   "author": "Aurélien Delogu <aurelien.delogu@gmail.com>",
   "themes": [
@@ -40,6 +40,7 @@
         "icon.accent": "#00e8c6",
         "status_bar.background": "#23262E",
         "title_bar.background": "#23262E",
+        "title_bar.inactive_background": "#1E2028",
         "toolbar.background": "#20232A",
         "tab_bar.background": "#23262E",
         "tab.inactive_background": "#23262E",
@@ -47,6 +48,9 @@
         "search.match_background": "#f39d1256",
         "panel.background": "#23262E",
         "panel.focused_border": "#00e8c6",
+        "panel.indent_guide": "#333844",
+        "panel.indent_guide_active": "#585C66",
+        "panel.indent_guide_hover": "#3D4352",
         "pane.focused_border": "#00e8c6",
         "pane_group.border": "#1B1D23",
         "scrollbar.thumb.background": "#3A3F4C77",
@@ -65,8 +69,11 @@
         "editor.invisible": "#333844",
         "editor.wrap_guide": "#333844",
         "editor.active_wrap_guide": "#585C66",
+        "editor.indent_guide": "#333844",
+        "editor.indent_guide_active": "#585C66",
         "editor.document_highlight.read_background": "#4F435580",
         "editor.document_highlight.write_background": "#db45a250",
+        "editor.document_highlight.bracket_background": "#4F435580",
         "terminal.background": "#262A33",
         "terminal.foreground": "#D5CED9",
         "terminal.bright_foreground": "#FFFFFF",
@@ -95,6 +102,7 @@
         "terminal.ansi.white": "#D5CED9",
         "terminal.ansi.bright_white": "#FFFFFF",
         "terminal.ansi.dim_white": "#9A97A0",
+        "terminal.ansi.background": "#262A33",
         "link_text.hover": "#6BAEE8",
         "conflict": "#F92672",
         "conflict.background": "#F9267240",
@@ -139,6 +147,7 @@
         "warning": "#DE9237",
         "warning.background": "#DE923718",
         "warning.border": "#DE9237",
+        "accents": ["#00e8c6"],
         "players": [
           {
             "cursor": "#FFF",
