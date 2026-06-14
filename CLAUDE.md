@@ -291,6 +291,7 @@ Objet clé → `HighlightStyleContent`. Chaque clé correspond à un nœud Tree-
 | `string.special.symbol`  | Symboles (ex: `:symbol` en Ruby)                  |
 | `tag`                    | Tags HTML/XML                                     |
 | `text.literal`           | Texte littéral / verbatim                         |
+| `title`                  | Titres Markdown (`# H1`, `## H2`, etc.)           |
 | `type`                   | Types, interfaces, classes                        |
 | `variable`               | Variables                                         |
 | `variable.special`       | Variables spéciales (`self`, `this`, etc.)        |

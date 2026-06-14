@@ -281,6 +281,11 @@
             "font_style": null,
             "font_weight": null
           },
+          "title": {
+            "color": "#FFE66D",
+            "font_style": null,
+            "font_weight": 700
+          },
           "tag": {
             "color": "#f92672",
             "font_style": null,
