@@ -26,7 +26,7 @@
         "ghost_element.background": "#23262E",
         "ghost_element.hover": "#282b35",
         "ghost_element.active": "#3D4352",
-        "ghost_element.selected": "#00e8c218",
+        "ghost_element.selected": "#262A33",
         "ghost_element.disabled": "#746f77",
         "text": "#D5CED9",
         "text.muted": "#8C8690",
